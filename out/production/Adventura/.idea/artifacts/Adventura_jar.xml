@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Adventura:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Adventura_jar</output-path>
+    <root id="archive" name="Adventura.jar">
+      <element id="module-output" name="Adventura" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/fxs/javafx-swt.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/fxs/javafx.web.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/fxs/javafx.base.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/fxs/javafx.fxml.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/fxs/javafx.media.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/fxs/javafx.swing.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/fxs/javafx.controls.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/fxs/javafx.graphics.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
